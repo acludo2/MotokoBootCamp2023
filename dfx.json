@@ -9,9 +9,27 @@
       "main":"day1.mo",
       "type":"motoko"
     },
-    "day_2":{
-      "main":"day2.mo",
+    "day_3":{
+      "main":"day3.mo",
       "type":"motoko"
+    },
+    "day_4":{
+      "main":"day4.mo",
+      "type":"motoko"
+    },
+    "day_5":{
+      "main":"day5.mo",
+      "type":"motoko"
+    },
+    "calculator":{
+      "main":"calculator.mo",
+      "type":"motoko"
+    },
+    "networks": {
+      "local": {
+        "bind": "127.0.0.1:8000",
+        "type": "ephemeral"
+      }
     }
   }
 }
